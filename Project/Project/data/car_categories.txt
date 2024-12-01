@@ -1,0 +1,29 @@
+Altroz: Hatchback, Petrol, 5
+Audi Etron: EV, Electric, 5
+Baleno: Hatchback, Petrol, 5
+Bmw 3 Series: Sedan, Petrol, 5
+Chevorlet Bolt Ev: EV, Electric, 5
+Chevorlet Tahoe: SUV, Petrol, 7
+Curvvev: EV, Electric, 5
+Ford Explorer: SUV, Petrol, 7
+Ford Focus: Sedan, Petrol, 5
+Ford Mustang Mach Ev: EV, Electric, 4
+Ford Mustang: Sedan, Petrol, 4
+Honda Accord: Sedan, Petrol, 5
+Honda Crv: SUV, Petrol, 5
+Honda Jazz: Hatchback, Petrol, 5
+Hyundai Sonata: Sedan, Petrol, 5
+Hyundai Veloster: Hatchback, Petrol, 4
+Jeep Grand Cherokee: SUV, Petrol, 5
+Kiasonnet: SUV, Petrol, 5
+Mazda3: Sedan, Petrol, 5
+Nissan Leaf: EV, Electric, 5
+Seltos: SUV, Petrol, 5
+Taisor: SUV, Petrol, 5
+Tesla Model 3: EV, Electric, 5
+Tesla Model S: EV, Electric, 5
+Toyota Camry: Sedan, Petrol, 5
+Toyota Highlander: SUV, Petrol, 7
+Toyotacorolla: Sedan, Petrol, 5
+Volkswagen Golf: Hatchback, Petrol, 5
+Xtrail: SUV, Petrol, 5

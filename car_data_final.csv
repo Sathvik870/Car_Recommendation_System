@@ -1,0 +1,121 @@
+Car Model,Fuel Type,Seating Capacity,Car Category,Cost_lakhs,Engine_cc_kwh,Milege_pkm_pc
+Tata Indica,Diesel,5,Hatchback,3.8,1396,18
+Maruti Alto,Petrol,5,Hatchback,3.5,796,22
+Tata Nano,Petrol,4,Hatchback,2.7,624,25
+Mahindra Scorpio,Diesel,7,SUV,13.5,2179,16
+Tata Safari,Diesel,7,SUV,15.2,1956,14
+Maruti Swift,Petrol,5,Hatchback,5.9,1197,21
+Tata Altroz,Petrol,5,Hatchback,7,1199,19
+Tata Nexon,Petrol,5,SUV,7.6,1199,17
+Mahindra XUV500,Diesel,7,SUV,17.6,2179,15
+Tata Harrier,Diesel,5,SUV,15,1956,16
+Maruti Baleno,Petrol,5,Hatchback,6.6,1197,20
+Tata Punch,Petrol,5,SUV,6,1199,18
+Tata Tigor,Petrol,5,Sedan,6.5,1199,20
+Mahindra Thar,Diesel,4,SUV,13.5,2184,15
+Maruti Dzire,Petrol,5,Sedan,6.2,1197,22
+Tata Tiago,Petrol,5,Hatchback,5.6,1199,23
+Tata Indica Vista,Diesel,5,Hatchback,4.8,1405,19
+Tata Indica eV2,Diesel,5,Hatchback,4.7,1396,25
+Tata Indica EV,Electric,5,Hatchback,8,26,200
+Tata Nexon EV Prime,Electric,5,SUV,15,30.2,312
+Tata Nexon EV Max,Electric,5,SUV,16.5,40.5,453
+Tata Altroz DCA,Petrol,5,Hatchback,8.1,1199,18
+Tata Tigor EV,Electric,5,Sedan,12.5,26,315
+Tata Safari 2021,Diesel,7,SUV,21,1956,14.5
+Tata Nexon Facelift,Petrol,5,SUV,8.1,1199,17.5
+Tata Tiago Facelift,Petrol,5,Hatchback,6.5,1199,22
+Maruti Suzuki SX4 S-Cross,Petrol,5,SUV,11,1462,18
+Maruti Suzuki A-Star,Petrol,5,Hatchback,4.5,998,19
+Maruti Suzuki WagonR 3,Electric,5,Hatchback,8.5,24,250
+Mahindra eXUV300,Electric,5,SUV,14,40,375
+Mahindra eKUV100,Electric,5,SUV,8.25,15.9,147
+Mahindra Alturas G4,Diesel,7,SUV,28,2157,12
+Mahindra Thar 1 Automatic,Petrol,4,SUV,14.2,1997,15.2
+Mahindra XUV700 1,Petrol,7,SUV,17.9,1999,14
+Hyundai Santro Xing,Petrol,5,Hatchback,3.9,1086,20
+Hyundai i20 Active,Petrol,5,Hatchback,7.5,1197,19
+Hyundai Elite i20,Petrol,5,Hatchback,7,1197,20
+Hyundai Venue N Line,Petrol,5,SUV,10,998,18
+Hyundai Tucson 1,Petrol,5,SUV,24,1999,13
+Hyundai Grand i10,Petrol,5,Hatchback,5.8,1197,20
+Honda Civic,Petrol,5,Sedan,17,1799,16.5
+Honda CR-V 2,Diesel,5,SUV,32,2000,19.5
+Honda Accord,Petrol,5,Sedan,44,1993,23
+Toyota Etios,Petrol,5,Sedan,7.5,1364,23
+Toyota Innova Crysta,Diesel,7,MPV,19,2393,15
+Toyota Fortuner,Diesel,7,SUV,30,2755,10.5
+Honda WR-V,Petrol,5,SUV,9,1199,16
+Nissan Kicks,Petrol,5,SUV,10,1498,14.2
+Tata Indica,Diesel,5,Hatchback,3.5,1396,18
+Tata Indigo,Diesel,5,Sedan,5,1405,19
+Tata Nano,Petrol,4,Hatchback,2.5,624,25
+Tata Altroz,Petrol,5,Hatchback,7,1199,19
+Tata Harrier,Diesel,5,SUV,15,1956,16
+Tata Nexon,Petrol,5,SUV,7.6,1199,17
+Tata Tiago,Petrol,5,Hatchback,5.5,1199,23
+Tata Tigor,Petrol,5,Sedan,6.5,1199,20
+Tata Safari,Diesel,7,SUV,15,1956,14
+Maruti Suzuki 800,Petrol,5,Hatchback,2,796,20
+Maruti Suzuki Swift,Petrol,5,Hatchback,6,1197,21
+Maruti Suzuki Alto,Petrol,5,Hatchback,3.5,796,22
+Maruti Suzuki WagonR,Petrol,5,Hatchback,5,998,20
+Maruti Suzuki Dzire,Petrol,5,Sedan,6.2,1197,22
+Maruti Suzuki Ertiga,Petrol,7,MPV,8,1462,18
+Maruti Suzuki Celerio,Petrol,5,Hatchback,5,998,21
+Maruti Suzuki Baleno,Petrol,5,Hatchback,6.6,1197,20
+Maruti Suzuki S-Cross,Diesel,5,SUV,11,1462,18
+Maruti Suzuki Vitara Brezza,Diesel,5,SUV,7.6,1462,17
+Maruti Suzuki Ignis,Petrol,5,Hatchback,5.5,1197,20
+Maruti Suzuki XL6,Petrol,6,MPV,11.3,1462,19
+Maruti Suzuki Grand Vitara,Petrol,5,SUV,17.2,1462,20.5
+Mahindra Scorpio,Diesel,7,SUV,13.5,2179,16
+Mahindra Bolero,Diesel,7,SUV,9.5,1493,16.7
+Mahindra XUV500,Diesel,7,SUV,17.6,2179,15
+Mahindra XUV300,Petrol,5,SUV,8.2,1197,17
+Mahindra Thar,Diesel,4,SUV,13.5,2184,15
+Mahindra KUV100,Petrol,5,SUV,6,1198,18
+Mahindra Marazzo,Diesel,7,MPV,12.3,1497,17
+Mahindra XUV700,Diesel,7,SUV,17.9,1999,14
+Hyundai Santro,Petrol,5,Hatchback,3.5,1086,20
+Hyundai i10,Petrol,5,Hatchback,4.5,1086,20.7
+Hyundai i20,Petrol,5,Hatchback,7,1197,20
+Hyundai Creta,Petrol,5,SUV,10.5,1497,16
+Hyundai Venue,Petrol,5,SUV,7.8,1197,17.5
+Hyundai Verna,Petrol,5,Sedan,9.5,1497,18
+Hyundai Elantra,Petrol,5,Sedan,18,1999,15.5
+Hyundai Elantra,Petrol,5,Sedan,19,1582,18
+Hyundai Tucson,Diesel,5,SUV,24,1999,13
+Hyundai Tucson,Diesel,5,SUV,26,1995,16.38
+Hyundai Aura,Petrol,5,Sedan,6,1197,20.5
+Honda City,Petrol,5,Sedan,11,1498,17.8
+Honda Amaze,Petrol,5,Sedan,7,1199,18.6
+Honda Jazz,Petrol,5,Hatchback,7.5,1199,18
+Honda WR-V,Petrol,5,SUV,9.5,1498,24
+Honda CR-V,Petrol,5,SUV,28,1997,14.4
+Honda CR-V,Petrol,5,SUV,32,2000,19.5
+Honda Accord,Petrol,5,Sedan,44,1993,23
+BMW 3 Series,Petrol,5,Sedan,42,1998,16.1
+BMW 3 Series,Petrol,5,Sedan,47,1995,19.6
+BMW X1,Diesel,5,SUV,45,1998,14.8
+BMW X3,Diesel,5,SUV,61,1995,16.55
+Kia Seltos,Petrol,5,SUV,10,1497,16.8
+Kia Carens,Petrol,7,MPV,12,1497,16.5
+Kia Sonet,Petrol,5,SUV,7.5,1197,18.4
+Nissan Micra,Petrol,5,Hatchback,6.5,1198,19
+Nissan Kicks,Petrol,5,SUV,11,1461,19.6
+Nissan Magnite,Petrol,5,SUV,6,999,18.75
+Volkswagen Polo,Petrol,5,Hatchback,6,1198,18
+Volkswagen T-Roc,Petrol,5,SUV,21.35,1498,17.85
+Skoda Rapid,Petrol,5,Sedan,10,1598,18
+Skoda Kushaq,Petrol,5,SUV,11.5,999,17.9
+MG Hector,Petrol,5,SUV,15,1451,14
+MG ZS EV,Electric,5,SUV,22,44.5,419
+Hyundai Kona 3,Electric,5,SUV,23.75,39.2,452
+Tata Nexon EV,Electric,5,SUV,14,30.2,312
+Mahindra eVerito,Electric,5,Sedan,10,18.55,181
+Mahindra eKUV100,Electric,5,SUV,8.25,15.9,147
+Ford EcoSport,Petrol,5,SUV,8.5,1497,15.9
+Ford Endeavour,Diesel,7,SUV,30,1996,13.9
+Ford Figo,Petrol,5,Hatchback,5.3,1196,18
+Ford Aspire,Petrol,5,Sedan,7,1196,20
